@@ -1,4 +1,5 @@
-var lib = require(__dirname + '/../../lib')
+var lib    = require(__dirname + '/../../lib')
+  , buster = require('buster')
 
 buster.spec.expose()
 
