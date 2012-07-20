@@ -2,10 +2,10 @@
   "name": "foo",
   "version": "0.0.0",
   "main": "lib.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "buster": "~0.6.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
