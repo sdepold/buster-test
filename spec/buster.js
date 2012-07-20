@@ -15,6 +15,6 @@ config["browser tests"] = {
   ],
   environment: 'browser',
   sources: [
-    "../lib.js"
+    "lib.js"
   ]
 }
