@@ -4,6 +4,6 @@ var lib = {
   }
 }
 
-if(module && module.exports) {
+if(typeof module !== 'undefined') {
   module.exports = lib
 }
